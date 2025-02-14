@@ -11,14 +11,14 @@ const featuredProjects = [
     description: 'Automated DR solution using AWS services and Ansible for seamless failover and recovery.',
     technologies: ['AWS', 'Ansible', 'Python', 'Terraform'],
     imageUrl: '/images/projects/dr-automation.jpg',
-    githubUrl: 'https://github.com/yourusername/dr-automation',
+    githubUrl: 'https://github.com/rampattanaik/dr-automation',
   },
   {
     title: 'PostgreSQL High Availability Cluster',
     description: 'Implemented a highly available PostgreSQL cluster with automated failover and monitoring.',
     technologies: ['PostgreSQL', 'Docker', 'Kubernetes', 'Prometheus'],
     imageUrl: '/images/projects/postgres-ha.jpg',
-    githubUrl: 'https://github.com/yourusername/postgres-ha',
+    githubUrl: 'https://github.com/rampattanaik/postgres-ha',
   },
 ];
 

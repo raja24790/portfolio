@@ -8,7 +8,7 @@ const projects = [
     description: 'Automated DR solution using AWS services and Ansible for seamless failover and recovery.',
     technologies: ['AWS', 'Ansible', 'Python', 'Terraform'],
     imageUrl: '/images/projects/dr-automation.jpg',
-    githubUrl: 'https://github.com/yourusername/dr-automation',
+    githubUrl: 'https://github.com/rampattanaik/dr-automation',
     category: 'Cloud',
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     description: 'Implemented a highly available PostgreSQL cluster with automated failover and monitoring.',
     technologies: ['PostgreSQL', 'Docker', 'Kubernetes', 'Prometheus'],
     imageUrl: '/images/projects/postgres-ha.jpg',
-    githubUrl: 'https://github.com/yourusername/postgres-ha',
+    githubUrl: 'https://github.com/rampattanaik/postgres-ha',
     category: 'Database',
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     description: 'Built a comprehensive CI/CD pipeline using Jenkins, Docker, and Kubernetes.',
     technologies: ['Jenkins', 'Docker', 'Kubernetes', 'GitOps'],
     imageUrl: '/images/projects/cicd-pipeline.jpg',
-    githubUrl: 'https://github.com/yourusername/cicd-pipeline',
+    githubUrl: 'https://github.com/rampattanaik/cicd-pipeline',
     category: 'DevOps',
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     description: 'Developed a custom IaC framework for managing multi-cloud infrastructure.',
     technologies: ['Terraform', 'AWS', 'Azure', 'Python'],
     imageUrl: '/images/projects/iac-framework.jpg',
-    githubUrl: 'https://github.com/yourusername/iac-framework',
+    githubUrl: 'https://github.com/rampattanaik/iac-framework',
     category: 'Cloud',
   },
   {
@@ -40,7 +40,7 @@ const projects = [
     description: 'Created a comprehensive monitoring solution for PostgreSQL databases.',
     technologies: ['PostgreSQL', 'Prometheus', 'Grafana', 'Python'],
     imageUrl: '/images/projects/db-monitoring.jpg',
-    githubUrl: 'https://github.com/yourusername/db-monitoring',
+    githubUrl: 'https://github.com/rampattanaik/db-monitoring',
     category: 'Database',
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     description: 'Implemented an intelligent auto-scaling system for Kubernetes clusters.',
     technologies: ['Kubernetes', 'Go', 'Prometheus', 'Custom Metrics'],
     imageUrl: '/images/projects/k8s-autoscaling.jpg',
-    githubUrl: 'https://github.com/yourusername/k8s-autoscaling',
+    githubUrl: 'https://github.com/rampattanaik/k8s-autoscaling',
     category: 'DevOps',
   },
 ];

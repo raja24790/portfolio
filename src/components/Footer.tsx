@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const socialLinks = [
   {
     name: 'GitHub',
-    url: 'https://github.com/yourusername',
+    url: 'https://github.com/rampattanaik',
     icon: (
       <svg
         className="w-6 h-6"
@@ -18,7 +18,7 @@ const socialLinks = [
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/yourusername',
+    url: 'https://linkedin.com/in/rampattanaik',
     icon: (
       <svg
         className="w-6 h-6"
@@ -31,7 +31,7 @@ const socialLinks = [
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/yourusername',
+    url: 'https://twitter.com/rampattanaik',
     icon: (
       <svg
         className="w-6 h-6"
@@ -107,17 +107,17 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
               <li className="text-dimWhite">
-                <a href="mailto:your.email@example.com" className="hover:text-white transition-colors duration-300">
-                  your.email@example.com
+                <a href="mailto:pattanaikramswarup@gmail.com" className="hover:text-white transition-colors duration-300">
+                  pattanaikramswarup@gmail.com
                 </a>
               </li>
               <li className="text-dimWhite">
-                <a href="tel:+1234567890" className="hover:text-white transition-colors duration-300">
-                  +1 (234) 567-890
+                <a href="tel:+971504374839" className="hover:text-white transition-colors duration-300">
+                  +971 50 437 4839
                 </a>
               </li>
               <li className="text-dimWhite">
-                Location: Your City, Country
+                Location: Abu Dhabi, UAE
               </li>
             </ul>
           </div>
