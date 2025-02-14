@@ -78,8 +78,8 @@ const Contact = () => {
         </svg>
       ),
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'pattanaikramswarup@gmail.com',
+      href: 'mailto:pattanaikramswarup@gmail.com',
     },
     {
       icon: (
@@ -98,8 +98,8 @@ const Contact = () => {
         </svg>
       ),
       label: 'Phone',
-      value: '+1 (234) 567-890',
-      href: 'tel:+1234567890',
+      value: '+971 50 437 4839',
+      href: 'tel:+971504374839',
     },
     {
       icon: (
@@ -124,7 +124,7 @@ const Contact = () => {
         </svg>
       ),
       label: 'Location',
-      value: 'Your City, Country',
+      value: 'Abu Dhabi, UAE',
     },
   ];
 
